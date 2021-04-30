@@ -75,7 +75,7 @@ Scratch.UserSession.load(function(err, user) {
                             
                         }
                         
-                        // send summary to the cloud
+                        // send summary to the cloud variables
                         console.log(summary);
                         cloudControl.setCloudVariable(cloud, summary);
                     
