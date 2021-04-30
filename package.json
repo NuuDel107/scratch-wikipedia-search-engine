@@ -1,0 +1,27 @@
+{
+  "name": "scratch-wikipedia-search-engine",
+  "version": "1.0.0",
+  "description": "A program used with the Wikipedia Search Engine -scratch project.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NuuDel107/scratch-wikipedia-search-engine.git"
+  },
+  "keywords": [
+    "scratch",
+    "wikipedia"
+  ],
+  "author": "NuuDel107",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NuuDel107/scratch-wikipedia-search-engine/issues"
+  },
+  "homepage": "https://github.com/NuuDel107/scratch-wikipedia-search-engine#readme",
+  "dependencies": {
+    "scratch-api": "^1.1.11",
+    "wikijs": "^6.2.0"
+  }
+}
